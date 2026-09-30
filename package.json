@@ -1,0 +1,17 @@
+{
+    "name": "project-2-backend-api",
+    "version": "1.0.0",
+    "description": "Backend API Development - DecodeLabs Full Stack Internship Project 2",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "keywords": [
+        "nodejs",
+        "backend",
+        "api",
+        "full-stack"
+    ],
+    "author": "Full Stack Intern",
+    "license": "ISC"
+}
